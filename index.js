@@ -77,7 +77,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Ariff🐦\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=12542123926:+1 (254) 212-3926\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=6285376980664:+62 853 7698-0664\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 /******END OF VCARD INPUT******/
 
